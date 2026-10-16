@@ -1,0 +1,37 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
+  <defs>
+    <linearGradient id="nameGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A78BFA"></stop>
+      <stop offset="48%" stop-color="#D8B4FE"></stop>
+      <stop offset="100%" stop-color="#F0ABFC"></stop>
+    </linearGradient>
+    <linearGradient id="lineGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"></stop>
+      <stop offset="50%" stop-color="#EC4899"></stop>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"></stop>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7"></feGaussianBlur>
+    </filter>
+  </defs>
+  <g fill="none" stroke="#A78BFA" stroke-width="1.3" opacity=".7">
+    <path d="M115 67 L133 67 L145 79 L157 67 L175 67"></path>
+    <path d="M725 67 L743 67 L755 79 L767 67 L785 67"></path>
+    <path d="M150 163 L170 163 L180 153 L190 163"></path>
+    <path d="M710 163 L730 163 L740 153 L750 163"></path>
+  </g>
+  <g fill="#F0ABFC">
+    <path d="M112 103 l4 9 9 4 -9 4 -4 9 -4 -9 -9 -4 9 -4z"></path>
+    <path d="M788 103 l4 9 9 4 -9 4 -4 9 -4 -9 -9 -4 9 -4z"></path>
+    <circle cx="215" cy="66" r="2"></circle>
+    <circle cx="685" cy="66" r="2"></circle>
+    <circle cx="242" cy="166" r="2"></circle>
+    <circle cx="658" cy="166" r="2"></circle>
+  </g>
+  <text x="450" y="112" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="65" font-weight="bold" letter-spacing="3" fill="#8B5CF6" opacity=".45" filter="url(#glow)">GHOZLANE</text>
+  <text x="450" y="112" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="65" font-weight="bold" letter-spacing="3" fill="url(#nameGradient)">GHOZLANE</text>
+  <text x="450" y="158" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="12" fill="#C4B5FD">TATA</text>
+  <rect x="255" y="177" width="390" height="1.5" rx=".75" fill="url(#lineGradient)"></rect>
+  <text x="450" y="204" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="4" fill="#A78BFA">ENGINEER · BUILDER · CREATOR</text>
+</svg>
