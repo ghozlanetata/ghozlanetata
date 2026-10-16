@@ -1,38 +1,56 @@
 <div align="center">
 
-# 🔧 Ghozlane Tata
+# 🎮 GHOZLANE TATA
 
-### Software Engineer · Certified Kubernetes Administrator (CKA)
+</div>
+
+<!-- Animated typing header -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?lines=Software+Engineer;CKA+Certified;Cloud-Native+Engineer;Building+digital+services&font=Fira+Code&color=8B5CF6&center=true&vCenter=true&width=500&height=70&duration=2500&pause=700" alt="Typing" />
+
+</div>
+
+<div align="center">
 
 *Building dependable digital services across software, cloud-native engineering, and networks.*
 
 <br>
 
-[📋 Portfolio](https://ghozlanetata.netlify.app) · [🐙 GitHub](https://github.com/ghozlanetata) · [🔗 LinkedIn](https://www.linkedin.com/in/ghozlane-tata-911811273/)
+<a href="https://ghozlanetata.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge" alt="Portfolio"></a>
+<a href="https://github.com/ghozlanetata"><img src="https://img.shields.io/badge/🐙_GitHub-6D28D9?style=for-the-badge" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/ghozlane-tata-911811273/"><img src="https://img.shields.io/badge/💼_LinkedIn-EC4899?style=for-the-badge" alt="LinkedIn"></a>
+
+<br>
+
+`SOFTWARE ENGINEERING` · `KUBERNETES` · `NETWORKING` · `TECHNICAL DELIVERY`
 
 </div>
 
 ---
 
-## 📐 SPEC SHEET
+<div align="center">
+
+### ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
+### ⚡ C H A R A C T E R   L O A D I N G ⚡
+### ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✧ ✧ ✦ ✧
+
+</div>
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║  PROJECT: Ghozlane Tata — Software Engineer                    ║
-║  DOCUMENT TYPE: Engineering Profile / Capability Overview      ║
-║  REVISION: Latest                                              ║
-╠═══════════════════════════════════════════════════════════════╣
-║  PRIMARY ROLE ............ Software Engineer                   ║
-║  CERTIFICATION ........... CKA (Certified Kubernetes Admin)    ║
-║  ORGANIZATION ............ Huawei Algeria                      ║
-║  FOCUS AREAS ............. Software Eng · K8s · DevOps         ║
-║                          Networking · Technical Delivery       ║
-╚═══════════════════════════════════════════════════════════════╝
+  ▸▸▸ Booting character data...
+  ┌────────────────────────────────────────────────────────────┐
+  │  ⚔️  Class ......... Software Engineer / Cloud-Native      │
+  │  🏅  Rank .......... CKA (Certified Kubernetes Admin)     │
+  │  📍  Guild ......... Huawei Algeria                        │
+  │  ✦   Status ....... Online ⚡                              │
+  └────────────────────────────────────────────────────────────┘
+  ▸▸▸ Character loaded successfully! ✅
 ```
 
 ---
 
-## 📝 1. Overview
+## 📜 Character Profile
 
 My work sits at the intersection of software engineering, Kubernetes, DevOps, networking, and technical delivery. At **Huawei Algeria**, I contribute to the integration and delivery of a national digital-services platform — working across testing and UAT, go-live preparation, deployment coordination, and production troubleshooting.
 
@@ -40,137 +58,213 @@ I value reliable engineering, practical solutions, thoughtful design, and the st
 
 ---
 
-## 🛠️ 2. Technical Specifications
+## 📊 Live Stats
 
-### Module A — Languages & Web
+<div align="center">
 
-| Component | Status |
-|:---|:---|
-| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-17212B?style=flat-square&logo=javascript&logoColor=F7DF1E) |
-| TypeScript | ![TypeScript](https://img.shields.io/badge/TypeScript-17212B?style=flat-square&logo=typescript&logoColor=69B7FF) |
-| React | ![React](https://img.shields.io/badge/React-17212B?style=flat-square&logo=react&logoColor=61DAFB) |
-| Node.js | ![Node.js](https://img.shields.io/badge/Node.js-17212B?style=flat-square&logo=nodedotjs&logoColor=7BC96F) |
+<img src="https://github-readme-stats.vercel.app/api?username=ghozlanetata&show_icons=true&bg_color=1A1A2E&title_color=8B5CF6&icon_color=EC4899&text_color=C4B5FD&border_color=6D28D9&count_private=true" alt="GitHub Stats" width="400" />
 
-### Module B — Cloud-Native & Delivery
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghozlanetata&layout=compact&bg_color=1A1A2E&title_color=8B5CF6&text_color=C4B5FD&border_color=6D28D9" alt="Top Languages" width="320" />
 
-| Component | Status |
-|:---|:---|
-| Kubernetes | ![Kubernetes](https://img.shields.io/badge/Kubernetes-17212B?style=flat-square&logo=kubernetes&logoColor=7DD3FC) |
-| Docker | ![Docker](https://img.shields.io/badge/Docker-17212B?style=flat-square&logo=docker&logoColor=4DB8FF) |
-| Git | ![Git](https://img.shields.io/badge/Git-17212B?style=flat-square&logo=git&logoColor=F28B74) |
-| CI/CD | ![CI%2FCD](https://img.shields.io/badge/CI%2FCD-17212B?style=flat-square&logo=githubactions&logoColor=8BE9D0) |
-| GitOps | ![GitOps](https://img.shields.io/badge/GitOps-17212B?style=flat-square&logo=git&logoColor=C4A7FF) |
+</div>
 
-### Module C — APIs, Backend & Data
-
-| Component | Status |
-|:---|:---|
-| Python | ![Python](https://img.shields.io/badge/Python-17212B?style=flat-square&logo=python&logoColor=FFD166) |
-| REST APIs | ![REST%20APIs](https://img.shields.io/badge/REST_APIs-17212B?style=flat-square&logo=fastapi&logoColor=8BE9D0) |
-| SQL | ![SQL](https://img.shields.io/badge/SQL-17212B?style=flat-square&logo=postgresql&logoColor=7DD3FC) |
-
-### Module D — Networks & Telecommunications
+### Skill Tree
 
 ```
-  ┌─────────────────────────────────────────────────────┐
-  │ • Mobile telecommunications                          │
-  │ • Network troubleshooting                            │
-  │ • ML applications for network fault                  │
-  │   detection & classification                         │
-  └─────────────────────────────────────────────────────┘
-```
+  Languages & Web     [████████████████████] MAX  ⚡
+  └─ JavaScript · TypeScript · React · Node.js
 
----
+  Cloud-Native        [████████████████████] MAX  ⚡
+  └─ Kubernetes · Docker · Git · CI/CD · GitOps
 
-## 🚀 3. Project Portfolio
+  APIs & Backend      [██████████████████░░]  90%  🔥
+  └─ Python · REST APIs · SQL
 
-### ✦ PRJ-001: Aurora Arcade — creative portfolio
-
-**Type:** Frontend / Interaction Design
-**Description:** An aurora-inspired, RPG and arcade-style portfolio that turns professional storytelling into an interactive experience. Visitors can explore a creative career journey, projects, and certifications, then switch to a classic portfolio with a purple-and-pink palette. The shift between experiences takes inspiration from an aurora curtain.
-
-The project brings together frontend engineering, interaction design, visual storytelling, and creative problem-solving — and expresses the way I like to combine engineering with art.
-
-**Links:**
-- 🔗 [Live experience](https://ghozlanetata.netlify.app)
-- 🔗 [Classic portfolio](https://ghozlanetata.netlify.app/classic-portfolio)
-- 🔗 [Source code](https://github.com/ghozlanetata/aurora-arcade-portfolio)
-
----
-
-### ✦ PRJ-002: Network Fault Intelligence (NFI)
-
-**Type:** ML / Backend / Web
-**Description:** A platform that analyzes mobile-network KPIs to detect and classify network faults, combining a web interface with backend and machine-learning components. It connects my telecommunications background with software engineering and applied machine learning.
-
-**Links:**
-- 🔗 [Repository](https://github.com/ghozlanetata/network-fault-intelligence-platform)
-
----
-
-### ✦ PRJ-003: CloudScale Logistics — GitOps Manifest Guardrail
-
-**Type:** DevOps / GitOps
-**Description:** An exploration of Kubernetes deployment workflows, GitOps practices, and validation controls for deployment manifests.
-
----
-
-### ✦ PRJ-004: CI/CD & Python automation
-
-**Type:** Automation / Delivery
-**Description:** Engineering automation and delivery workflows, with Python automation and CI/CD practices focused on repeatable work.
-
----
-
-## 📊 4. Technical Delivery — Platform Scale
-
-At **Huawei Algeria**, I collaborate across teams and stakeholders on the technical delivery of a national digital-services platform. My work includes system integration, testing and UAT, go-live preparation, deployment coordination, and troubleshooting.
-
-```
-  ┌─────────────────────────────────────────────────────────────┐
-  │  METRIC                │  VALUE                             │
-  ├────────────────────────┼────────────────────────────────────┤
-  │  Digital services      │  ~40                               │
-  │  Registered users      │  1,000,000+                        │
-  │  Transactions          │  1,000,000+                        │
-  └─────────────────────────────────────────────────────────────┘
-  Note: Figures describe the platform's scale, not individual output.
-```
-
----
-
-## 📜 5. Certification
-
-```
-  ╔═════════════════════════════════════════════════════════╗
-  ║  ☑ Certified Kubernetes Administrator (CKA)             ║
-  ╚═════════════════════════════════════════════════════════╝
-```
-
----
-
-## 📬 6. Contact
-
-I'm always glad to connect about software engineering, cloud-native delivery, networking, or creative technology.
-
-```
-  ┌───────────────────────────────────────────────────────┐
-  │  📋 Portfolio ....... ghozlanetata.netlify.app        │
-  │  🔗 LinkedIn ........ linkedin.com/in/ghozlane-tata   │
-  │  🐙 GitHub .......... github.com/ghozlanetata         │
-  └───────────────────────────────────────────────────────┘
+  Networks & Telecom  [██████████████████░░]  90%  🔥
+  └─ Mobile telecom · Network troubleshooting
+     ML for fault detection & classification
 ```
 
 <div align="center">
 
-[Portfolio](https://ghozlanetata.netlify.app) · [LinkedIn](https://www.linkedin.com/in/ghozlane-tata-911811273/) · [GitHub](https://github.com/ghozlanetata)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,kubernetes,docker,git,githubactions,python,fastapi,postgresql&perline=6&theme=dark" alt="Skill Icons" />
+
+</div>
+
+<details>
+<summary>🎖️ <b>Tech Badges — Full Arsenal</b></summary>
+
+<br>
+
+**⚡ Languages & Web**
+
+![JavaScript](https://img.shields.io/badge/_JavaScript_-F7DF1E?style=for-the-badge&logo=javascript&logoColor=17212B)
+![TypeScript](https://img.shields.io/badge/TypeScript-69B7FF?style=for-the-badge&logo=typescript&logoColor=17212B)
+![React](https://img.shields.io/badge/_React_-61DAFB?style=for-the-badge&logo=react&logoColor=17212B)
+![Node.js](https://img.shields.io/badge/Node.js-7BC96F?style=for-the-badge&logo=nodedotjs&logoColor=17212B)
+
+**☁️ Cloud-Native & Delivery**
+
+![Kubernetes](https://img.shields.io/badge/_Kubernetes_-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/_Docker_-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/_Git_-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI%2FCD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitOps](https://img.shields.io/badge/_GitOps_-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**📡 APIs, Backend & Data**
+
+![Python](https://img.shields.io/badge/_Python_-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST%20APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/_SQL_-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+---
+
+## 🗺️ Quest Log
+
+<div align="center">
+
+### ✦ ═══ ✦ ═══ ✦ ═══ ✦ ═══ ✦
+### &nbsp;&nbsp;&nbsp;A C T I V E&nbsp;&nbsp; Q U E S T S&nbsp;
+### ✦ ═══ ✦ ═══ ✦ ═══ ✦ ═══ ✦
+
+</div>
+
+<br>
+
+### ✦ Quest I — Aurora Arcade ⭐ COMPLETED
+
+```
+  Status: ✅ Complete    Difficulty: ★★★★☆    Type: Creative Frontend
+  ▸▸▸ Launch → ▸▸▸ Explore → ▸▸▸ Experience → ▸▸▸ Complete
+```
+
+An aurora-inspired, RPG and arcade-style portfolio that turns professional storytelling into an interactive experience. Visitors can explore a creative career journey, projects, and certifications, then switch to a classic portfolio with a purple-and-pink palette. The shift between experiences takes inspiration from an aurora curtain.
+
+The project brings together frontend engineering, interaction design, visual storytelling, and creative problem-solving — and expresses the way I like to combine engineering with art.
+
+| Action | Destination |
+|:---|:---|
+| 🌟 [**Enter the live experience**](https://ghozlanetata.netlify.app) | → Explore the interactive journey |
+| 🎨 [**Switch to classic mode**](https://ghozlanetata.netlify.app/classic-portfolio) | → View the classic portfolio |
+| 📦 [**Open source code**](https://github.com/ghozlanetata/aurora-arcade-portfolio) | → Browse the repository |
+
+---
+
+### ✦ Quest II — Network Fault Intelligence (NFI) ⚡ ACTIVE
+
+```
+  Status: 🔥 Active      Difficulty: ★★★★☆    Type: ML + Backend
+  ▸▸▸ Analyze → ▸▸▸ Detect → ▸▸▸ Classify → ▸▸▸ Resolve
+```
+
+A platform that analyzes mobile-network KPIs to detect and classify network faults, combining a web interface with backend and machine-learning components. It connects my telecommunications background with software engineering and applied machine learning.
+
+📦 [**Enter the repository →**](https://github.com/ghozlanetata/network-fault-intelligence-platform)
+
+---
+
+### ✦ Quest III — CloudScale Logistics 🔄 EXPLORING
+
+```
+  Status: 🔄 Exploring   Difficulty: ★★★☆☆    Type: DevOps / GitOps
+  ▸▸▸ Deploy → ▸▸▸ Validate → ▸▸▸ Guard → ▸▸▸ Scale
+```
+
+An exploration of Kubernetes deployment workflows, GitOps practices, and validation controls for deployment manifests.
+
+---
+
+### ✦ Quest IV — CI/CD & Python Automation 🔄 EXPLORING
+
+```
+  Status: 🔄 Exploring   Difficulty: ★★★☆☆    Type: Automation
+  ▸▸▸ Build → ▸▸▸ Automate → ▸▸▸ Repeat → ▸▸▸ Ship
+```
+
+Engineering automation and delivery workflows, with Python automation and CI/CD practices focused on repeatable work.
+
+---
+
+## 🏯 Guild Hall — Technical Delivery
+
+```
+  ▸▸▸ Accessing Guild Hall...
+  ┌────────────────────────────────────────────────────────────────┐
+  │  🏯  Guild:    Huawei Algeria                                   │
+  │  📜  Mission:  Technical delivery of a national digital-        │
+  │               services platform                                  │
+  │  🔧  Role:     System integration · Testing & UAT ·             │
+  │               Go-live prep · Deployment coordination ·          │
+  │               Troubleshooting                                    │
+  └────────────────────────────────────────────────────────────────┘
+  ▸▸▸ Access granted! ✅
+```
+
+<div align="center">
+
+| 🛡️ Digital Services | 👥 Registered Users | 📨 Transactions |
+|:---:|:---:|:---:|
+| **~40** | **1,000,000+** | **1,000,000+** |
+
+```
+  Service Scale    [████████████████████] MAX  ⚡
+  User Base        [████████████████████] MAX  ⚡
+  Transactions     [████████████████████] MAX  ⚡
+```
+
+*These figures describe the platform's scale, not individual output.*
 
 </div>
 
 ---
 
+## 🏅 Achievement Unlocked
+
 <div align="center">
 
-*END OF DOCUMENT* ✅
+```
+  ╔═══════════════════════════════════════════════════════════╗
+  ║                                                           ║
+  ║   🥇  Certified Kubernetes Administrator (CKA)            ║
+  ║                                                           ║
+  ║   ⚡ Achievement unlocked: Cloud-native mastery ⚡        ║
+  ║                                                           ║
+  ╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🌟 Currently Exploring
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?lines=Exploring+creative+frontend;Mastering+GitOps+workflows;Building+ML-powered+network+tools;Making+tech+feel+more+human&font=Fira+Code&color=EC4899&center=true&vCenter=true&width=450&height=60&duration=2500&pause=600" alt="Currently" />
+
+</div>
+
+---
+
+## 🤝 Party Up
+
+I'm always glad to connect about software engineering, cloud-native delivery, networking, or creative technology.
+
+<div align="center">
+
+<a href="https://ghozlanetata.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge" alt="Portfolio"></a>
+<br>
+<a href="https://www.linkedin.com/in/ghozlane-tata-911811273/"><img src="https://img.shields.io/badge/💼_LinkedIn-EC4899?style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://github.com/ghozlanetata"><img src="https://img.shields.io/badge/🐙_GitHub-6D28D9?style=for-the-badge" alt="GitHub"></a>
+
+<br><br>
+
+### ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
+
+*Thanks for visiting! Press start to continue...* 🎮
+
+### ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✧ ✧ ✦ ✧
 
 </div>
