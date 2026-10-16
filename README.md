@@ -1,207 +1,84 @@
-Hi, I’m Ghozlane 👋
+# Ghozlane Tata
 
-Software & DevOps Engineer | Kubernetes | AWS | CI/CD | Networking
+### Software Engineer · Certified Kubernetes Administrator (CKA)
 
-Master’s graduate in Networks & Telecommunications with professional experience in cloud infrastructure, Kubernetes, networking, application integration, and large-scale digital platforms.
+**Building dependable digital services across software, cloud-native engineering, and networks.**
 
-Currently focused on building deeper expertise in AWS, Infrastructure as Code, GitOps, CI/CD, DevSecOps, and cloud-native platforms.
+[Portfolio](https://ghozlanetata.netlify.app) &nbsp;·&nbsp; [GitHub](https://github.com/ghozlanetata) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ghozlane-tata-911811273/)
 
-⸻
+<br>
 
-👩‍💻 About Me
+`SOFTWARE ENGINEERING` &nbsp; `KUBERNETES` &nbsp; `NETWORKING` &nbsp; `TECHNICAL DELIVERY`
 
-* 🌐 Cloud & DevOps / Platform Engineering
-* ☸️ Kubernetes & containerized platforms
-* ☁️ AWS & cloud infrastructure
-* 🔄 CI/CD, GitOps & automation
-* 🔐 DevSecOps & infrastructure security
-* 🌐 Networking, TCP/IP, routing, switching, VPN & DNS
-* 🐍 Python automation
-* 🐧 Linux / RHEL
-* 📊 Monitoring, reliability & performance
-* 🎓 Master’s in Networks & Telecommunications
+</div>
 
-I enjoy working at the intersection of software, infrastructure, networking and cloud platforms, with a particular interest in building reliable and automated systems.
+---
 
-⸻
+## A little about how I work
 
-💼 Professional Experience
+My work sits at the intersection of software engineering, Kubernetes, DevOps, networking, and technical delivery. At Huawei Algeria, I contribute to the integration and delivery of a national digital-services platform, working across testing and UAT, go-live preparation, deployment coordination, and production troubleshooting.
 
-Huawei Algeria
+I value reliable engineering, practical solutions, thoughtful design, and the steady learning that keeps each of them improving. Outside delivery work, I enjoy exploring how interaction and visual storytelling can make technology feel more human.
 
-Delivery Technical Director / Technical Lead
+## Technical landscape
 
-Working on large-scale enterprise and public-sector digital platforms, with responsibilities spanning:
+**Languages & web**
+![JavaScript](https://img.shields.io/badge/JavaScript-17212B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-17212B?style=flat-square&logo=typescript&logoColor=69B7FF)
+![React](https://img.shields.io/badge/React-17212B?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-17212B?style=flat-square&logo=nodedotjs&logoColor=7BC96F)
 
-* Technical architecture and solution design
-* Cloud and Kubernetes platform deployment
-* Application and service integration
-* Infrastructure and network coordination
-* Deployment and go-live preparation
-* Performance analysis and troubleshooting
-* Monitoring and reliability
-* Technical team coordination and onsite delivery
+**Cloud-native & delivery**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-17212B?style=flat-square&logo=kubernetes&logoColor=7DD3FC)
+![Docker](https://img.shields.io/badge/Docker-17212B?style=flat-square&logo=docker&logoColor=4DB8FF)
+![Git](https://img.shields.io/badge/Git-17212B?style=flat-square&logo=git&logoColor=F28B74)
+![CI%2FCD](https://img.shields.io/badge/CI%2FCD-17212B?style=flat-square&logo=githubactions&logoColor=8BE9D0)
+![GitOps](https://img.shields.io/badge/GitOps-17212B?style=flat-square&logo=git&logoColor=C4A7FF)
 
-My experience includes working across the full delivery lifecycle — from architecture and integration to deployment, troubleshooting and production readiness.
+**APIs, backend & data**
+![Python](https://img.shields.io/badge/Python-17212B?style=flat-square&logo=python&logoColor=FFD166)
+![REST%20APIs](https://img.shields.io/badge/REST_APIs-17212B?style=flat-square&logo=fastapi&logoColor=8BE9D0)
+![SQL](https://img.shields.io/badge/SQL-17212B?style=flat-square&logo=postgresql&logoColor=7DD3FC)
 
-Project-specific information is intentionally kept confidential.
+**Networks & telecommunications**
+Mobile telecommunications · Network troubleshooting · Machine-learning applications for network fault detection and classification
 
-⸻
+## Selected work
 
-🛠️ Technical Stack
+### ✦ Aurora Arcade — creative portfolio
 
-Cloud & Infrastructure
+An aurora-inspired, RPG and arcade-style portfolio that turns professional storytelling into an interactive experience. Visitors can explore a creative career journey, projects, and certifications, then switch to a classic portfolio with a purple-and-pink palette. The shift between experiences takes inspiration from an aurora curtain.
 
-AWS Kubernetes Docker Linux RHEL Terraform
+The project brings together frontend engineering, interaction design, visual storytelling, and creative problem-solving—and expresses the way I like to combine engineering with art.
 
-DevOps & Automation
+[**Explore the live experience**](https://ghozlanetata.netlify.app) &nbsp;·&nbsp; [Classic portfolio](https://ghozlanetata.netlify.app/classic-portfolio) &nbsp;·&nbsp; [Source code](https://github.com/ghozlanetata/aurora-arcade-portfolio)
 
-Git GitHub Actions CI/CD GitOps Python Ansible
+### Network Fault Intelligence (NFI)
 
-Kubernetes
+A platform that analyzes mobile-network KPIs to detect and classify network faults, combining a web interface with backend and machine-learning components. It connects my telecommunications background with software engineering and applied machine learning.
 
-Deployments Services Ingress HPA RBAC NetworkPolicy ConfigMaps Secrets Probes SecurityContext
+[**View the repository**](https://github.com/ghozlanetata/network-fault-intelligence-platform)
 
-Networking
+### CloudScale Logistics — GitOps Manifest Guardrail
 
-TCP/IP Routing Switching VPN DNS Firewalls Load Balancing
+An exploration of Kubernetes deployment workflows, GitOps practices, and validation controls for deployment manifests.
 
-Application & Integration
+### CI/CD & Python automation
 
-REST APIs React Node.js Java / Spring Boot SQL
+Engineering automation and delivery workflows, with Python automation and CI/CD practices focused on repeatable work.
 
-Observability & Reliability
+## Technical delivery
 
-Monitoring Performance Analysis Health Checks Logging Alerting
+At Huawei Algeria, I collaborate across teams and stakeholders on the technical delivery of a national digital-services platform. My work includes system integration, testing and UAT, go-live preparation, deployment coordination, and troubleshooting.
 
-⸻
+**Platform context:** approximately 40 digital services, more than one million registered users, and more than one million transactions. These figures describe the platform’s scale, not individual output.
 
-🏆 Certifications & Learning
+## Certification
 
-* ☸️ Certified Kubernetes Administrator (CKA)
-* ☁️ AWS Certified Solutions Architect – Associate — in progress
-* 🏗️ Terraform Associate — planned
-* ☸️ CKAD — planned
-* 🔐 CKS — planned
+**Certified Kubernetes Administrator (CKA)**
 
-⸻
+## Connect
 
-🚀 Featured Projects
+I’m always glad to connect about software engineering, cloud-native delivery, networking, or creative technology.
 
-☸️ Kubernetes Portfolio
-
-A progressive collection of Kubernetes projects covering:
-
-* Application deployment
-* RBAC and access control
-* Multi-tier applications
-* Horizontal Pod Autoscaling
-* Health probes
-* NetworkPolicies
-* Ingress
-* Production-oriented Kubernetes configuration
-
-Repository:
-View Kubernetes Portfolio
-
-⸻
-
-🔄 CI/CD & Python Automation Portfolio
-
-Hands-on projects focused on:
-
-* GitHub Actions
-* CI/CD pipelines
-* Docker
-* Python automation
-* Kubernetes integration
-* DevSecOps practices
-* Automated validation
-
-Repository:
-View CI/CD & Python Automation Portfolio
-
-⸻
-
-🛡️ CloudScale Logistics — GitOps & DevSecOps
-
-A production-inspired cloud-native project focused on:
-
-* GitOps workflows
-* Kubernetes manifest validation
-* CI quality gates
-* Kubernetes security
-* Container security
-* Automated policy checks
-* Secure workload configuration
-
-Coming soon
-
-⸻
-
-☁️ AWS Infrastructure with Terraform
-
-A cloud infrastructure project demonstrating:
-
-* AWS networking
-* VPC architecture
-* Public and private subnets
-* IAM
-* Load balancing
-* Infrastructure as Code
-* Terraform modules
-* Remote state
-* CI validation
-* Cloud monitoring
-
-Coming soon
-
-⸻
-
-📈 Current Focus
-
-Kubernetes
-    ↓
-CI/CD
-    ↓
-GitOps & DevSecOps
-    ↓
-AWS
-    ↓
-Terraform / Infrastructure as Code
-    ↓
-Cloud-native Architecture
-    ↓
-Observability & Reliability
-
-I’m currently focusing on turning my Kubernetes and infrastructure knowledge into production-oriented cloud engineering projects.
-
-⸻
-
-🎯 Career Interests
-
-I’m particularly interested in opportunities involving:
-
-* Cloud Engineering
-* DevOps Engineering
-* Platform Engineering
-* Site Reliability Engineering
-* Kubernetes / Cloud-native Infrastructure
-* Infrastructure Automation
-* Technical / Delivery Engineering
-
-Especially environments where cloud infrastructure, automation, networking and distributed systems intersect.
-
-⸻
-
-📫 Connect With Me
-
-* 💼 LinkedIn
-* 🌐 Portfolio
-* 📧 Email
-
-⸻
-
-<p align="center">
-  <i>Building reliable infrastructure, automating delivery, and learning continuously.</i>
-</p>
+[Portfolio](https://ghozlanetata.netlify.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ghozlane-tata-911811273/) &nbsp;·&nbsp; [GitHub](https://github.com/ghozlanetata)
