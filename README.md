@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🎮 GHOZLANE TATA
+<img src="./assets/ghozlane-wordmark.svg"
+     alt="Ghozlane Tata — Software Engineer"
+     width="700" />
 
-</div>
+<br>
 
-<!-- Animated typing header -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?lines=Software+Engineer;CKA+Certified;Cloud-Native+Engineer;Building+digital+services&font=Fira+Code&color=8B5CF6&center=true&vCenter=true&width=500&height=70&duration=2500&pause=700" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?lines=Software+Engineer;CKA+Certified;Cloud-Native+Engineer;Building+digital+services&font=Fira+Code&color=8B5CF6&center=true&vCenter=true&width=500&height=50&duration=2500&pause=700"
+     alt="Software engineering and cloud-native focus" />
 
 </div>
 
